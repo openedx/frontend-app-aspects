@@ -1,1 +1,3 @@
 # frontend-app-aspects
+
+Purpose
